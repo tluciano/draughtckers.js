@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/thiagokimo/checkers.js/issues"
   },
-  "homepage": "https://github.com/thiagokimo/checkers.js"
+  "homepage": "https://github.com/thiagokimo/checkers.js",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
