@@ -1,0 +1,23 @@
+{
+  "name": "checkers.js",
+  "version": "0.0.0",
+  "description": "A simple checkers game",
+  "main": "checkers.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thiagokimo/checkers.js.git"
+  },
+  "keywords": [
+    "checkers",
+    "game"
+  ],
+  "author": "Thiago Rocha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagokimo/checkers.js/issues"
+  },
+  "homepage": "https://github.com/thiagokimo/checkers.js"
+}
