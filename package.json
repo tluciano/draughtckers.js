@@ -1,25 +1,26 @@
 {
-  "name": "checkers.js",
+  "name": "draughtckers.js",
   "version": "0.0.0",
-  "description": "A simple checkers game",
-  "main": "checkers.js",
+  "description": "A simple draughts/checkers game",
+  "main": "draughtckers.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thiagokimo/checkers.js.git"
+    "url": "git://github.com/thiagokimo/draughtckers.js.git"
   },
   "keywords": [
+    "draughts",
     "checkers",
     "game"
   ],
   "author": "Thiago Rocha",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thiagokimo/checkers.js/issues"
+    "url": "https://github.com/thiagokimo/draughtckers.js/issues"
   },
-  "homepage": "https://github.com/thiagokimo/checkers.js",
+  "homepage": "https://github.com/thiagokimo/draughtckers.js",
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-contrib-jasmine": "~0.6.5"

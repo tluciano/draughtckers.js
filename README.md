@@ -1,2 +1,2 @@
-checkers.js
+draughtckers.js
 ===========

@@ -1,8 +1,8 @@
-describe('checkers.js', function() {
+describe('draughtckers.js', function() {
   var game;
 
   beforeEach(function() {
-    game = new Checkers();
+    game = new Draughtckers();
 
     var WHITE_PLAYER = "white_player";
   });
@@ -14,7 +14,7 @@ describe('checkers.js', function() {
     });
 
     it("should respond who plays in the current turn", function() {
-      expect(game.getCurrentPlayer()).toEqual(checkers.WHITE_PLAYER);
+      expect(game.getCurrentPlayer()).toEqual(draughtckers.WHITE_PLAYER);
     });
 
   });

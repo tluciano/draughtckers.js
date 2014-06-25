@@ -2,14 +2,14 @@ module.exports = function(grunt) {
 
   var srcFiles = [
     'src/constants.js',
-    'src/checkers.js'
+    'src/draughtckers.js'
   ];
 
   grunt.initConfig({
     jasmine: {
       src: srcFiles,
       options: {
-        specs: 'test/checkers_test.js'
+        specs: 'test/draughtckers_test.js'
       }
     }
   });
