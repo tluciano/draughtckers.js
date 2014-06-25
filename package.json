@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/thiagokimo/checkers.js",
   "devDependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "~0.4.5",
+    "grunt-contrib-jasmine": "~0.6.5"
   }
 }
